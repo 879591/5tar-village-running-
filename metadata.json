@@ -1,0 +1,6 @@
+{
+  "name": "5tar Village Runner",
+  "description": "An original mobile-friendly 3-lane endless runner set in an Indian village environment by 5tar Suraj (Suraj Maurya).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
